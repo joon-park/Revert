@@ -5,5 +5,6 @@ public class Randomclass {
 		System.out.println("first part");
 		System.out.println("second part");
 		System.out.println("mistake I want to take out");
+		System.out.println("fourth part");
 	}
 }
